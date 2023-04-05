@@ -34,7 +34,7 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
     <h2 class="head2">Goals</h2>
     <div class="text-lg">
       <ul class="list">
-        <li>Collect, archive and publish information about ETH events for future generations</li>
+        <li>Collect, archive and publish information about Ethereum community events, like hackathons or conferences</li>
         <li>Improve the culture of these events by promoting diversity, inclusivity and open participation</li>
         <li>Support organisers by providing communication space & resources, tools and best practice guidance</li>
         <li>Coordinate with other Ethereum groups such as AllCoreDevs/Ethereum Cat Herders, Ethereum Magicians, EF</li>
