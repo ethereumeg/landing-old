@@ -63,16 +63,29 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
       <ul class="list">
         <li><a href="https://twitter.com/treecz">Tree</a> ⎯ ETHBrno (Gwei.cz)</li>
         <li><a href="https://twitter.com/hyperalchemy">Ceci</a> ⎯ ETHPrague</li>
-        <li><a href="https://twitter.com/chrishobcroft">Chris</a></li>
-        <!--<li><a href="https://twitter.com/JosefJ_">Josef</a> ⎯ Devcon, ETHPrague, EthereumZurich (Paralelní Polis)</li>
-        <li><a href="https://github.com/q9f">Afri</a> ⎯ ETHBerlin, Protocol Berg (Department of Decentralization)</li>
-        <li><a href="https://twitter.com/blockblanc">Eléonore</a> ⎯ ETHDam (CryptoCanal)</li>
-        <li><a href="https://twitter.com/manualzuru">Manu</a> ⎯ ETHBarcelona (DoinGud)</li>
-        <li><a href="https://twitter.com/TMIYChao">Mario</a> ⎯ (Ethereum Foundation/Paralelní Polis)</li-->
+        <li><a href="https://twitter.com/chrishobcroft">Chris Hobcroft</a></li>
       </ul>
     </div>
     <div class="mt-5 text-lg">The full ensemble will be announced on <a href="https://ethprague.com/">ETHPrague</a> during <a href="http://prgblockweek.com/">Prague Blockchain Week 2023</a>.</div>
 
+
+    <h2 class="head2">Proposed founding gardeners</h2>
+    <div class="mb-5 text-lg">
+      People we respect and want to have on board:
+    </div>
+
+    <div class="text-lg">
+      <ul class="list">
+        <li><a href="https://twitter.com/JosefJ_">Josef Je</a> ⎯ Devcon, ETHPrague, EthereumZurich (Paralelní Polis)</li>
+        <li><a href="https://twitter.com/TMIYChao">Mario Havel</a> ⎯ (Ethereum Foundation/Paralelní Polis)</li>
+        <li><a href="https://github.com/q9f">Afri</a> ⎯ ETHBerlin, Protocol Berg (Department of Decentralization)</li>
+        <li><a href="https://twitter.com/_franzihei">Franzi</a> ⎯ ETHBerlin, Protocol Berg (Department of Decentralization)</li>       
+        <li><a href="https://twitter.com/manualzuru">Manu Alzuru</a> ⎯ ETHBarcelona (DoinGud)</li>
+        <li><a href="https://twitter.com/blockblanc">Eléonore Blanc</a> ⎯ ETHDam (CryptoCanal)</li>
+        <li><a href="https://twitter.com/JBSchweitzer">Joseph Schweitzer</a> ⎯ (Ethereum Foundation)</li>
+        <li><span class="italic">Add your nominee!</span></li>
+      </ul>
+    </div>
 
     <h2 class="head2">Join our community</h2>
     <div class="text-lg">
