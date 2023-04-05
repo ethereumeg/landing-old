@@ -26,7 +26,7 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
   <div class="max-w-5xl mt-5 grid justify-center mb-16">
     <h1 class="text-5xl">Ethereum Event Gardeners <span class="text-teal-500">⟠</span></h1>
 
-    <div class="mt-5 text-lg">Organizing for diversity and against commercialization in Ethereum</div>
+    <div class="mt-5 text-lg">Organizing diversity against commercialization in Ethereum community</div>
 
     <h2 class="head2 !mb-0">Manifesto</h2>
     <div class="manifesto mt-2 p-6 bg-black/5">
@@ -50,7 +50,7 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
         <li><a href="https://github.com/ethevents-club/confeth">confeth</a> ⎯ state-of-the-art conference/hackathon planning and managing tool (draft)</li>
         <li><i class="italic">"The Etherevent Field Guide"</i> ⎯ knowledge-base with best practices for ETH event organisers (idea)</li>
         <li><i class="italic">"Live from ETH event!"</i> ⎯ web3 platform for remote participation based on StreamETH (idea)</li>
-        <li><i class="italic">"ETHEUnite"</i> ⎯ sub-community & Twitter Spaces hosted by European Ethereum organizers (idea)</li>
+        <li><i class="italic">"ETHEUnite"</i> ⎯ sub-community & Twitter Spaces hosted by European Ethereum organizers</li>
       </ul>
     </div>
 
