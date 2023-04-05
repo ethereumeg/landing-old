@@ -76,7 +76,7 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
 
     <h2 class="head2">Join our community</h2>
     <div class="text-lg">
-      We are looking for your support and your feedback, however we do not have a public community group at this stage.
+      We are looking for your support and your feedback, however <span class="italic">we do not have a public community group at this stage</span>.
     </div>
     <div class="text-lg mt-3">
       If you would like to become a founding gardener in this pre-genesis phase, please ask one of the current gardeners for an invitation to join a private Telegram group.
