@@ -37,7 +37,7 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
         <li>Collect, archive and publish information about Ethereum community events, like hackathons or conferences</li>
         <li>Improve the culture of these events by promoting diversity, inclusivity and open participation</li>
         <li>Support organisers by providing communication space & resources, tools and best practice guidance</li>
-        <li>Coordinate with other Ethereum groups such as AllCoreDevs/Ethereum Cat Herders, Ethereum Magicians, EF</li>
+        <li>Coordinate with other Ethereum groups such as <a href="https://hudsonjameson.com/2020-06-22-what-is-an-ethereum-core-developer/">AllCoreDevs</a>/<a href="https://www.ethereumcatherders.com/">Ethereum Cat Herders</a>, <a href="https://ethereum-magicians.org/">Ethereum Magicians</a>, <a href="http://ethereum.foundation/">EF</a> etc.</li>
       </ul>
     </div>
 
@@ -55,7 +55,7 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
     <div class="text-lg">
       Nothing is certain yet, we are still in the ideation phase. 
       
-      The initiative will be widely discussed within Q2/2023 on EthereumZurich and ETHDam, and published (genesis) on ETHPrague, early June 2023.
+      The initiative will be widely discussed within Q2/2023 on <a href="https://ethereumzuri.ch/">EthereumZurich</a> and <a href="https://www.ethdam.com/">ETHDam</a>, and hopefully published on <a href="https://ethprague.com/">ETHPrague</a>, early June 2023 (genesis).
     </div>
 
     <h2 class="head2">Founding gardeners</h2>
@@ -71,7 +71,7 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
         <li><a href="https://twitter.com/TMIYChao">Mario</a> ⎯ (Ethereum Foundation/Paralelní Polis)</li-->
       </ul>
     </div>
-    <div class="mt-5 text-lg">The full ensemble will be announced on ETHPrague 2023.</div>
+    <div class="mt-5 text-lg">The full ensemble will be announced on <a href="https://ethprague.com/">ETHPrague</a> during <a href="http://prgblockweek.com/">Prague Blockchain Week 2023</a>.</div>
 
 
     <h2 class="head2">Join our community</h2>
