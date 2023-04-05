@@ -5,7 +5,7 @@
   const manifesto = `
 In the sprawling landscape of the Infinite Garden, we stand as a group of nonconformist, working to cultivate and nurture the Ethereum community. We are a diverse assembly of individuals from different fields and backgrounds, united by our passion for decentralized technologies and human coordination.
 
-Our mission is to promote and support community events, and to foster a culture of inclusivity, diversity, and open participation. Embrace the unique local characteristics of every corner of the world, and celebrate the voluntary work that is done with meaning and purpose.
+Our mission is to promote and support community events and gatherings, and to foster a culture of inclusivity, diversity, and open participation. Embrace the unique local characteristics of every corner of the world, and celebrate the voluntary work that is done with meaning and purpose.
 
 We stand in opposition to commercialization and unification, rejecting the notion that our community should be homogenized and commoditized. Instead, we strive to create a decentralized and grassroots movement that highlights the differences and diversity of our global community.
 
@@ -13,7 +13,7 @@ As a group of cypherpunks, we cherish the basic principles of freedom and collab
 
 Let us sow the seeds of a vibrant and inclusive community, one that will bloom and flourish for generations to come.
 
-*Your Ethereum Gardeners*
+*Your Ethereum Event Gardeners*
 `
 
 </script>
@@ -24,16 +24,46 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
 
 <div class="grid m-6 justify-center">
   <div class="max-w-5xl mt-5 grid justify-center">
-    <h1 class="max-w-3xl text-5xl mb-5">ETHevents.club</h1>
-    <h2 class="text-2xl">Manifesto</h2>
-    <div class="manifesto mb-5">
+    <h1 class="text-5xl">ETHevents.club*</h1>
+
+    <div>*Looking for a better name!</div>
+
+    <h2 class="head2 !mb-0">Manifesto</h2>
+    <div class="manifesto ml-2">
       <SvelteMarkdown source={manifesto} />
     </div>
-  </div>
-  <div class="text-xl">
-    → <a href="https://t.me/+J8yr3DY0xPg2ZWFk" class="underline hover:no-underline">Telegram group</a>
+
+    <h2 class="head2">Our projects</h2>
+    <div class="text-lg">
+      <ul class="list-disc projects">
+        <li><a href="https://chronicle.ethevents.club">chronicle</a> ⎯ historical archive of community ETH events (in development)</li>
+        <li><a href="https://github.com/ethevents-club/confeth">confeth</a> ⎯ state-of-the-art conference/hackathon planning and managing tool (draft)</li>
+        <li><i class="italic">"The Etherevent Field Guide"</i> ⎯ knowledge-base with best practices for ETH event organisers (idea)</li>     
+      </ul>
+    </div>
+
+    <h2 class="head2">Join our community</h2>
+    <div class="text-lg ml-2">
+      → <a href="https://t.me/+J8yr3DY0xPg2ZWFk">Telegram group</a>
+    </div>
+
   </div>
 </div>
 
 <style lang="postcss">
+
+  .projects li a, .projects li i {
+    @apply text-xl;
+  }
+
+  .head2 {
+    @apply text-2xl italic mt-10 mb-5;
+  }
+  .list-disc {
+    @apply ml-7;
+  }
+
+  a {
+    @apply underline hover:no-underline;
+  }
 </style>
