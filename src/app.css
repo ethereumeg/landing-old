@@ -4,6 +4,14 @@
 @tailwind components;
 @tailwind utilities;
 
-.manifesto p {
+.manifesto p:not(:nth-child(1)) {
     @apply mt-5 text-lg;
+}
+
+.manifesto p:nth-child(1) {
+    @apply text-lg;
+}
+
+.manifesto a {
+    @apply underline hover:no-underline;
 }
