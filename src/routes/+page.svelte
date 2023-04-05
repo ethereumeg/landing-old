@@ -46,7 +46,8 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
       <ul class="list">
         <li><a href="https://chronicle.ethevents.club">chronicle</a> ⎯ historical archive of community ETH events (in development)</li>
         <li><a href="https://github.com/ethevents-club/confeth">confeth</a> ⎯ state-of-the-art conference/hackathon planning and managing tool (draft)</li>
-        <li><i class="italic">"The Etherevent Field Guide"</i> ⎯ knowledge-base with best practices for ETH event organisers (idea)</li>     
+        <li><i class="italic">"The Etherevent Field Guide"</i> ⎯ knowledge-base with best practices for ETH event organisers (idea)</li>
+        <li><i class="italic">"Live from ETH event!"</i> ⎯ web3 platform for remote participation based on StreamETH (idea)</li>
       </ul>
     </div>
 
@@ -62,8 +63,8 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
       <ul class="list">
         <li><a href="https://twitter.com/treecz">Tree</a> ⎯ ETHBrno (Gwei.cz)</li>
         <li><a href="https://twitter.com/hyperalchemy">Ceci</a> ⎯ ETHPrague</li>
-        <!--<li><a href="https://twitter.com/chrishobcroft">Chris</a></li>
-        <li><a href="https://twitter.com/JosefJ_">Josef</a> ⎯ Devcon, ETHPrague, EthereumZurich (Paralelní Polis)</li>
+        <li><a href="https://twitter.com/chrishobcroft">Chris</a></li>
+        <!--<li><a href="https://twitter.com/JosefJ_">Josef</a> ⎯ Devcon, ETHPrague, EthereumZurich (Paralelní Polis)</li>
         <li><a href="https://github.com/q9f">Afri</a> ⎯ ETHBerlin, Protocol Berg (Department of Decentralization)</li>
         <li><a href="https://twitter.com/blockblanc">Eléonore</a> ⎯ ETHDam (CryptoCanal)</li>
         <li><a href="https://twitter.com/manualzuru">Manu</a> ⎯ ETHBarcelona (DoinGud)</li>
