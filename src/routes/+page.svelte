@@ -31,6 +31,16 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
       <SvelteMarkdown source={manifesto} />
     </div>
 
+    <h2 class="head2">Mission</h2>
+    <div class="text-lg">
+      <ul class="list">
+        <li>Collect, archive and publish information about ETH events for future generations</li>
+        <li>Improve the culture of these events by promoting diversity, inclusivity and open participation</li>
+        <li>Support organisers by providing communication space & resources, tools and best practice guidance</li>
+        <li>Coordinate with other Ethereum groups such as AllCoreDevs/Ethereum Cat Herders, Ethereum Magicians, EF</li>
+      </ul>
+    </div>
+
     <h2 class="head2">Our projects</h2>
     <div class="text-lg">
       <ul class="list">
@@ -88,7 +98,11 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
     @apply ml-2;
   }
   .list li {
-    @apply pl-3;
+    @apply pl-3 mb-2.5;
+  }
+  .list-number {
+    @apply ml-9;
+    list-style-type: decimal;
   }
   .list li:before {
     content: '⟠';
