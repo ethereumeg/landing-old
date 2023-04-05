@@ -24,7 +24,7 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
 
 <div class="grid m-6 justify-center">
   <div class="max-w-5xl mt-5 grid justify-center mb-16">
-    <h1 class="text-5xl">Ethereum Event Gardeners</h1>
+    <h1 class="text-5xl">Ethereum Event Gardeners <span class="text-teal-500">⟠</span></h1>
 
     <h2 class="head2 !mb-0">Manifesto</h2>
     <div class="manifesto mt-2 p-6 bg-black/5">
@@ -33,7 +33,7 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
 
     <h2 class="head2">Our projects</h2>
     <div class="text-lg">
-      <ul class="list-disc projects">
+      <ul class="list">
         <li><a href="https://chronicle.ethevents.club">chronicle</a> ⎯ historical archive of community ETH events (in development)</li>
         <li><a href="https://github.com/ethevents-club/confeth">confeth</a> ⎯ state-of-the-art conference/hackathon planning and managing tool (draft)</li>
         <li><i class="italic">"The Etherevent Field Guide"</i> ⎯ knowledge-base with best practices for ETH event organisers (idea)</li>     
@@ -42,13 +42,34 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
 
     <h2 class="head2">Roadmap</h2>
     <div class="text-lg">
-      The initiative will be widely discussed within Q2/2023 on EthereumZurich and ETHDam, and published (genesis) within ETHPrague, in early June 2023.
+      Nothing is certain yet, we are still in the ideation phase. 
+      
+      The initiative will be widely discussed within Q2/2023 on EthereumZurich and ETHDam, and published (genesis) on ETHPrague, early June 2023.
     </div>
+
+    <h2 class="head2">Founding gardeners</h2>
+    <div class="text-lg">
+      <ul class="list">
+        <li><a href="https://twitter.com/treecz">Tree</a> ⎯ ETHBrno (Gwei.cz)</li>
+        <li><a href="https://twitter.com/hyperalchemy">Ceci</a> ⎯ ETHPrague</li>
+        <!--<li><a href="https://twitter.com/chrishobcroft">Chris</a></li>
+        <li><a href="https://twitter.com/JosefJ_">Josef</a> ⎯ Devcon, ETHPrague, EthereumZurich (Paralelní Polis)</li>
+        <li><a href="https://github.com/q9f">Afri</a> ⎯ ETHBerlin, Protocol Berg (Department of Decentralization)</li>
+        <li><a href="https://twitter.com/blockblanc">Eléonore</a> ⎯ ETHDam (CryptoCanal)</li>
+        <li><a href="https://twitter.com/manualzuru">Manu</a> ⎯ ETHBarcelona (DoinGud)</li>
+        <li><a href="https://twitter.com/TMIYChao">Mario</a> ⎯ (Ethereum Foundation/Paralelní Polis)</li-->
+      </ul>
+    </div>
+    <div class="mt-5 text-lg">The full ensemble will be announced on ETHPrague 2023.</div>
 
 
     <h2 class="head2">Join our community</h2>
     <div class="text-lg ml-2">
       → <a href="https://t.me/+J8yr3DY0xPg2ZWFk">Telegram group</a>
+    </div>
+
+    <div class="mt-16 border border-x-0 border-t-1 border-b-0 pt-6 border-black/10 text-black/50">
+      The source code of this website: <a href="https://github.com/ethevents-club/web">https://github.com/ethevents-club/web</a>
     </div>
 
   </div>
@@ -63,8 +84,15 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
   .head2 {
     @apply text-2xl italic mt-10 mb-5;
   }
-  .list-disc {
-    @apply ml-7;
+  .list {
+    @apply ml-2;
+  }
+  .list li {
+    @apply pl-3;
+  }
+  .list li:before {
+    content: '⟠';
+    @apply pr-2.5 text-teal-500;
   }
 
   a {
