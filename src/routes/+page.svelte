@@ -11,7 +11,7 @@ We stand in opposition to commercialization and unification, rejecting the notio
 
 As a group of cypherpunks, we cherish the basic principles of freedom and collaboration that underlie Ethereum. Our diverse membership, comprising both solarpunks and lunarpunks, brings a range of perspectives and energies to our mission. 
 
-Together, we are dedicated to cultivating and nurturing the Infinite Garden, fostering a vibrant and inclusive community that will endure for generations to come.
+Let us join hands and hearts. Let us sow the seeds of a vibrant and inclusive community, one that will bloom and flourish for generations to come.
 
 *Your Ethereum Gardeners*
 `
