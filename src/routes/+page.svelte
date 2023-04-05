@@ -19,7 +19,7 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
 </script>
 
 <svelte:head>
-  <title>ETHevents.club</title>
+  <title>Ethereum Event Gardeners (ETHevents.club)</title>
 </svelte:head>
 
 <div class="grid m-6 justify-center">
