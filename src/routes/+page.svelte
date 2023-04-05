@@ -9,7 +9,7 @@ Our mission is to promote and support community events and gatherings, and to fo
 
 We stand in opposition to commercialization and unification, rejecting the notion that our community should be homogenized and commoditized. Instead, we strive to create a decentralized and grassroots movement that highlights the differences and diversity of our global community.
 
-As a group of people with cypherpunk in the hearth, we cherish the basic principles of freedom and collaboration that underlie Ethereum. Our diverse membership, comprising both solarpunks and lunarpunks, brings a range of perspectives and energies to our mission. 
+As a group of people with cypherpunk in our hearths, we cherish the basic principles of freedom and collaboration that underlie Ethereum. Our diverse membership, comprising both solarpunks and lunarpunks, brings a range of perspectives and energies to our mission. 
 
 Let us sow the seeds of a vibrant and inclusive community, one that will bloom and flourish for generations to come.
 
@@ -75,8 +75,11 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
 
 
     <h2 class="head2">Join our community</h2>
-    <div class="text-lg ml-2">
-      → <a href="https://t.me/+J8yr3DY0xPg2ZWFk">Telegram group</a>
+    <div class="text-lg">
+      We are looking for your support and your feedback, however we do not have a public community group at this stage.
+    </div>
+    <div class="text-lg mt-3">
+      If you would like to become a founding gardener in this pre-genesis phase, please ask one of the current gardeners for an invitation to join a private Telegram group.
     </div>
 
     <div class="mt-16 border border-x-0 border-t-1 border-b-0 pt-6 border-black/10 text-black/50">
