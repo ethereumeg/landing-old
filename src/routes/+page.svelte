@@ -31,7 +31,7 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
       <SvelteMarkdown source={manifesto} />
     </div>
 
-    <h2 class="head2">Mission</h2>
+    <h2 class="head2">Our interest</h2>
     <div class="text-lg">
       <ul class="list">
         <li>Collect, archive and publish information about ETH events for future generations</li>
