@@ -31,7 +31,7 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
       <SvelteMarkdown source={manifesto} />
     </div>
 
-    <h2 class="head2">Our interest</h2>
+    <h2 class="head2">Goals</h2>
     <div class="text-lg">
       <ul class="list">
         <li>Collect, archive and publish information about ETH events for future generations</li>
@@ -41,7 +41,7 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
       </ul>
     </div>
 
-    <h2 class="head2">Our projects</h2>
+    <h2 class="head2">Projects</h2>
     <div class="text-lg">
       <ul class="list">
         <li><a href="https://chronicle.ethevents.club">chronicle</a> ⎯ historical archive of community ETH events (in development)</li>
