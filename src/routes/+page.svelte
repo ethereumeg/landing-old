@@ -47,7 +47,7 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
     <div class="text-lg">
       <ul class="list">
         <li><a href="https://chronicle.ethevents.club">chronicle</a> ⎯ historical archive of community ETH events (in development)</li>
-        <li><a href="https://github.com/ethevents-club/confeth">confeth</a> ⎯ state-of-the-art conference/hackathon planning and managing tool (draft)</li>
+        <li><a href="https://github.com/ethereumeg/confeth">confeth</a> ⎯ state-of-the-art conference/hackathon planning and managing tool (draft)</li>
         <li><i class="italic">"The Etherevent Field Guide"</i> ⎯ knowledge-base with best practices for ETH event organisers (idea)</li>
         <li><i class="italic">"Live from ETH event!"</i> ⎯ web3 platform for remote participation based on StreamETH (idea)</li>
         <li><i class="italic">"ETHEUnite"</i> ⎯ sub-community & Twitter Spaces hosted by European Ethereum organizers</li>
@@ -126,7 +126,7 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
     </div>
 
     <div class="mt-16 border border-x-0 border-t-1 border-b-0 pt-6 border-black/10 text-black/50">
-      The source code of this website: <a href="https://github.com/ethevents-club/web">https://github.com/ethevents-club/web</a>
+      The source code of this website: <a href="https://github.com/ethereumeg/web">https://github.com/ethereumeg/web</a>
     </div>
 
   </div>
