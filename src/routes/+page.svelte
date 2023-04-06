@@ -60,6 +60,17 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
       
       The initiative will be widely discussed within Q2/2023 on <a href="https://ethereumzuri.ch/">EthereumZurich</a> and <a href="https://www.ethdam.com/">ETHDam</a>, and hopefully published on <a href="https://ethprague.com/">ETHPrague</a>, early June 2023 (genesis).
     </div>
+    <div class="text-lg mt-5">
+      At the moment, we are mainly addressing the following areas:
+    </div>
+    <div class="text-lg mt-3">
+      <ul class="list-number">
+        <li>Inviting the founding gardeners</li>
+        <li>Defining the key objectives</li>
+        <li>Finalisation of our Manifesto</li>
+        <li>Setting up basic communication tools</li>
+      </ul>
+    </div>
 
     <h2 class="head2">Founding gardeners</h2>
     <div class="text-lg">
@@ -133,7 +144,7 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
   .list {
     @apply ml-2;
   }
-  .list li {
+  .list li, .list-number li {
     @apply pl-3 mb-2.5;
   }
   .list-number {
