@@ -65,6 +65,8 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
     <div class="text-lg">
       <ul class="list">
         <li><a href="https://twitter.com/treecz">Tree</a> ⎯ ETHBrno (Gwei.cz)</li>
+        <li><a href="https://github.com/q9f">Afri</a> ⎯ ETHBerlin, Protocol Berg (Department of Decentralization)</li>
+        <li><a href="https://twitter.com/blockblanc">Eléonore Blanc</a> ⎯ ETHDam (CryptoCanal)</li>
         <li><a href="https://twitter.com/hyperalchemy">Ceci</a> ⎯ ETHPrague</li>
         <li><a href="https://twitter.com/chrishobcroft">Chris Hobcroft</a></li>
       </ul>
@@ -81,12 +83,18 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
       <ul class="list">
         <li><a href="https://twitter.com/JosefJ_">Josef Je</a> ⎯ Devcon, ETHPrague, EthereumZurich (Paralelní Polis)</li>
         <li><a href="https://twitter.com/TMIYChao">Mario Havel</a> ⎯ (Ethereum Foundation/Paralelní Polis)</li>
-        <li><a href="https://github.com/q9f">Afri</a> ⎯ ETHBerlin, Protocol Berg (Department of Decentralization)</li>
         <li><a href="https://twitter.com/_franzihei">Franzi</a> ⎯ ETHBerlin, Protocol Berg (Department of Decentralization)</li>       
         <li><a href="https://twitter.com/manualzuru">Manu Alzuru</a> ⎯ ETHBarcelona (DoinGud)</li>
-        <li><a href="https://twitter.com/blockblanc">Eléonore Blanc</a> ⎯ ETHDam (CryptoCanal)</li>
         <li><a href="https://twitter.com/JBSchweitzer">Joseph Schweitzer</a> ⎯ (Ethereum Foundation)</li>
         <li><span class="italic">Add your nominee!</span></li>
+      </ul>
+    </div>
+
+    <h2 class="head2">History</h2>
+    <div class="text-lg">
+      <ul class="list">
+        <li><span class="italic">April 2, 2023</span> - first draft of the Manifesto</li>
+        <li><span class="italic">April 5, 2023</span> - this website has been created</li>
       </ul>
     </div>
 
@@ -97,10 +105,13 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
 
     <h2 class="head2">Join our community</h2>
     <div class="text-lg">
-      We are looking for your support and your feedback, however <span class="italic">we do not have a public community group at this stage</span>.
+      We would be very grateful for any support or any feedback - everyone is welcome in our community. Join us and let's create a better future for Ethereum events together!
     </div>
     <div class="text-lg mt-3">
-      If you would like to become a founding gardener in this pre-genesis phase, please ask one of the current gardeners for an invitation to join a closed Telegram group.
+      Our public Telegram group: <a href="https://t.me/EthereumEG">t.me/EthereumEG</a>
+    </div>
+    <div class="text-lg mt-3">
+      If you would like to become a founding gardener in this pre-genesis phase, please ask one of the current gardeners for an invitation.
     </div>
 
     <div class="mt-16 border border-x-0 border-t-1 border-b-0 pt-6 border-black/10 text-black/50">
