@@ -107,6 +107,7 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
       <ul class="list">
         <li><span class="italic">April 2, 2023</span> - first draft of the Manifesto</li>
         <li><span class="italic">April 5, 2023</span> - this website has been created</li>
+        <li><span class="italic">April 6, 2023</span> - Twitter account <a href="https://twitter.com/EthereumEG">@EthereumEG</a> was born</li>
       </ul>
     </div>
 
@@ -121,6 +122,9 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
     </div>
     <div class="text-lg mt-3">
       Our public Telegram group: <a href="https://t.me/EthereumEG">t.me/EthereumEG</a>
+    </div>
+    <div class="text-lg mt-3">
+      Our Twitter: <a href="https://twitter.com/EthereumEG">@EthereumEG</a>
     </div>
     <div class="text-lg mt-3">
       If you would like to become a founding gardener in this pre-genesis phase, please ask one of the current gardeners for an invitation.
