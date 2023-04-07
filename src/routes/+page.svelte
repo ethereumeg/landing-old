@@ -78,6 +78,7 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
         <li><a href="https://twitter.com/treecz">Tree</a> ⎯ ETHBrno (Gwei.cz)</li>
         <li><a href="https://github.com/q9f">Afri</a> ⎯ ETHBerlin, Protocol Berg (Department of Decentralization)</li>
         <li><a href="https://twitter.com/blockblanc">Eléonore Blanc</a> ⎯ ETHDam (CryptoCanal)</li>
+        <li><a href="https://twitter.com/hyperalchemy">Limone</a> ⎯ ETHRome (urbe.eth)</li>
         <li><a href="https://twitter.com/hyperalchemy">Ceci</a> ⎯ ETHPrague</li>
         <li><a href="https://twitter.com/chrishobcroft">Chris Hobcroft</a></li>
       </ul>
