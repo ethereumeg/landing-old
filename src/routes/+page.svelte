@@ -108,6 +108,7 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
         <li><span class="italic">April 2, 2023</span> - first draft of the Manifesto</li>
         <li><span class="italic">April 5, 2023</span> - this website has been created</li>
         <li><span class="italic">April 6, 2023</span> - Twitter account <a href="https://twitter.com/EthereumEG">@EthereumEG</a> was born</li>
+        <li><span class="italic">April 22, 2023</span> - Forum deployed at <a href="https://ethevents.club">ethevents.club</a></li>
       </ul>
     </div>
 
