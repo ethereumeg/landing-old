@@ -122,6 +122,9 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
       We would be very grateful for any support or any feedback - everyone is welcome in our community. Join us and let's create a better future for Ethereum events together!
     </div>
     <div class="text-lg mt-3">
+      Our Forum: <a href="https://ethevents.club">ethevents.club</a>
+    </div>
+    <div class="text-lg mt-3">
       Our public Telegram group: <a href="https://t.me/EthereumEG">t.me/EthereumEG</a>
     </div>
     <div class="text-lg mt-3">
