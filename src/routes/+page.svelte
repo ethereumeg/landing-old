@@ -82,10 +82,11 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
         <li><a href="https://twitter.com/chrishobcroft">Chris</a></li>
         <li><a href="https://twitter.com/blockblanc">Eléonore</a> ⎯ ETHDam (CryptoCanal)</li>
         <li><a href="https://twitter.com/juandaveth">Juan David</a> ⎯ Devcon (Ethereum Foundation)</li>
+        <li><a href="https://twitter.com/manualzuru">Manu Alzuru</a> ⎯ ETHBarcelona (DoinGud)</li>
+        <li><a href="https://twitter.com/wslyvh">Wesley</a> ⎯ Devcon (Ethereum Foundation)</li>        
       </ul>
     </div>
     <div class="mt-5 text-lg">The full ensemble will be announced on <a href="https://ethprague.com/">ETHPrague</a> during <a href="http://prgblockweek.com/">Prague Blockchain Week 2023</a>.</div>
-
 
     <h2 class="head2">Proposed founding gardeners</h2>
     <div class="mb-5 text-lg">
@@ -96,8 +97,7 @@ Let us sow the seeds of a vibrant and inclusive community, one that will bloom a
       <ul class="list">
         <li><a href="https://twitter.com/JosefJ_">Josef Je</a> ⎯ Devcon, ETHPrague, EthereumZurich (Paralelní Polis)</li>
         <li><a href="https://twitter.com/TMIYChao">Mario Havel</a> ⎯ (Ethereum Foundation/Paralelní Polis)</li>
-        <li><a href="https://twitter.com/_franzihei">Franzi</a> ⎯ ETHBerlin, Protocol Berg (Department of Decentralization)</li>       
-        <li><a href="https://twitter.com/manualzuru">Manu Alzuru</a> ⎯ ETHBarcelona (DoinGud)</li>
+        <li><a href="https://twitter.com/_franzihei">Franzi</a> ⎯ ETHBerlin, Protocol Berg (Department of Decentralization)</li>
         <li><a href="https://twitter.com/JBSchweitzer">Joseph Schweitzer</a> ⎯ (Ethereum Foundation)</li>
         <li><span class="italic">Add your nominee!</span></li>
       </ul>
